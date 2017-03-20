@@ -1,0 +1,13 @@
+E:\EPSI\Cours\2015-2016\C#\Git\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+E:\EPSI\Cours\2015-2016\C#\Git\FileSystem\FileSystem\obj\Debug\FileSystem.csprojResolveAssemblyReference.cache
+E:\EPSI\Cours\2015-2016\C#\Git\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+E:\EPSI\Cours\2015-2016\C#\Git\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+E:\EPSI\Cours\2015-2016\C#\Git\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+E:\EPSI\Cours\2015-2016\C#\Git\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
+C:\Users\Théo\Documents\Cours EPSI\B2\Language C# - Test Unitaire\FileSystem-master\FileSystem-master\bin\Debug\FileSystem.exe.config
+C:\Users\Théo\Documents\Cours EPSI\B2\Language C# - Test Unitaire\FileSystem-master\FileSystem-master\obj\Debug\FileSystem.exe
+C:\Users\Théo\Documents\Cours EPSI\B2\Language C# - Test Unitaire\FileSystem-master\FileSystem-master\obj\Debug\FileSystem.pdb
+C:\Users\Théo\Documents\Cours EPSI\B2\Language C# - Test Unitaire\FileSystem-master\FileSystem-master\bin\Debug\FileSystem.exe
+C:\Users\Théo\Documents\Cours EPSI\B2\Language C# - Test Unitaire\FileSystem-master\FileSystem-master\bin\Debug\FileSystem.pdb
+C:\Users\Théo\Documents\Cours EPSI\B2\Language C# - Test Unitaire\FileSystem-master\FileSystem-master\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Théo\Documents\Cours EPSI\B2\Language C# - Test Unitaire\FileSystem-master\FileSystem-master\obj\Debug\FileSystem.csprojResolveAssemblyReference.cache
